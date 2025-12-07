@@ -3,7 +3,7 @@ This is a **Flask-based web application** designed to perform **document verific
 
 **Note:** This system was developed and deployed as part of a **real client project**, ensuring high standards and real-world applicability.
 
----
+---  
 
 ## Features
 

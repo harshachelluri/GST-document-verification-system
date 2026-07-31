@@ -5,7 +5,7 @@ This is a **Flask-based web application** designed to perform **document verific
 
 ---  
 
-## Features
+## Features 
 
 ### 1. **Emblem Detection**
    - Detects the presence of an emblem by using mirrored template matching techniques to compare the document's emblem with a reference image.
